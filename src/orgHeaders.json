@@ -1,0 +1,13 @@
+{
+  "ORGANIZATION_ID": "Org Id",
+  "ORGANIZATION_NAME": "Org Name",
+  "OFFICIAL_NAME": "Official Name",
+  "ORGANIZATION_TYPE_CD": "Type",
+  "NEXT_HIGHER_ORG_ID": "Parent",
+  "ACTIVE_FLAG": "Active Flag",
+  "DESCRIPTION": "Description",
+  "PRIMARY_SUPERVISOR_NAME": "Primary Supervisor",
+  "ALTERNATE_SUPERVISOR_NAME": "Alternate Supervisor",
+  "PRIMARY_TIMEKEEPER_NAME": "Primary Time Keeper",
+  "ALTERNATE_TIMEKEEPER_NAME": "Alternate Time Keeper"
+}
